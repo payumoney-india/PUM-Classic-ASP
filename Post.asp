@@ -60,7 +60,7 @@ strHash = HashString(strToHash)
 
 
 </script>
-    <form method="post" action="https://test.payu.in/_payment" id="form1">  
+    <form method="post" action="https://sandboxsecure.payu.in/_payment" id="form1">  
       
     
    <input name="key" type="hidden" id="key" value="JBZaLc" />
